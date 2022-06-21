@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Projeto4.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <!--Folha de Estilo-->
+    <link href="FolhadeEstilo.css" rel="stylesheet" />
+
+    <!--Biblioteca Flexslider-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.2/flexslider.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.2/jquery.flexslider.js"></script>
+
+
+</head>
+
+
+<body>
+
+    <form id="form1" runat="server">
+
+        <div class="content-wrapper">
+            <!--CABEÇALHO-->
+            <div class="cabecalho content-wrapper margin-top margin-bottom">
+
+
+                <!--LOGOMARCA-->
+                <div class="logomarca">
+                    <asp:HyperLink ID="HyperLink7" NavigateUrl="~/Default.aspx" runat="server">
+                    <img src="Images/logo-colorido.png" />
+                    </asp:HyperLink>
+                </div>
+
+                <!--Barra de Título-->
+                <div class="barra-titulo">
+                    <br />
+                    <h2>Análise e Desenvolvimento de Sistemas</h2>
+                </div>
+
+                <!--Barra de Menu-->
+                <div class="menu">
+                    <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Default.aspx" runat="server">Home</asp:HyperLink>
+
+                    <asp:HyperLink ID="HyperLink2" NavigateUrl="~/Sobre.aspx" runat="server">Sobre</asp:HyperLink>
+
+                    <asp:HyperLink ID="LinkExececoes" NavigateUrl="~/Admin/ExibirExcecoes.aspx" runat="server">Exceções</asp:HyperLink>
+
+                    <asp:HyperLink ID="LinkUsuarios" NavigateUrl="~/Admin/Usuarios.aspx" runat="server">Usuarios</asp:HyperLink>
+
+                    <asp:HyperLink ID="HyperLink8" NavigateUrl="~/FaleConosco.aspx" runat="server">Fale Conosco</asp:HyperLink>
+
+                    <asp:HyperLink ID="LinkLogin" NavigateUrl="~/Login.aspx" runat="server">Login</asp:HyperLink>
+
+                    <asp:HyperLink ID="LinkLogout" NavigateUrl="~/Logout.aspx" runat="server">Sair</asp:HyperLink>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Boas vindas-->
+        <div class="boas-vindas ">
+
+            <asp:HyperLink ID="HyperLink4" NavigateUrl="~/LG_programacao_HTML.aspx" runat="server">HTML CSS</asp:HyperLink>
+
+            <asp:HyperLink ID="HyperLink5" NavigateUrl="~/SO.aspx" runat="server">Sistemas Operacionais</asp:HyperLink>
+
+            <asp:HyperLink ID="HyperLink6" NavigateUrl="~/Linguagem_C.aspx" runat="server">Linguagem C</asp:HyperLink>
+
+        </div>
+
+        <!--CONTEUDO-->
+        <div class="conteudo content-wrapper margin-bottom">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!--Rodape-->
+        <div class="rodape ">
+            <img width="625px" height="163px" src="Images/centro_paula.png" />
+            <br />
+            <br />
+            <asp:HyperLink ID="HyperLink3" Target="_blank" NavigateUrl="https://www.fatec.edu.br" runat="server">© FATEC Americana 2022</asp:HyperLink>
+            <br />
+            <br />
+
+        </div>
+    </form>
+</body>
+</html>

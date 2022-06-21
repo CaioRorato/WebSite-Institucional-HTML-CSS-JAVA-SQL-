@@ -1,0 +1,43 @@
+11/05/2022 11:17:15 - Falha ao enviar email.
+11/05/2022 11:26:14 - Falha ao enviar email.
+11/05/2022 11:26:22 - Falha ao enviar email.
+11/05/2022 11:26:23 - Falha ao enviar email.
+11/05/2022 11:26:24 - Falha ao enviar email.
+11/05/2022 11:30:23 - Falha ao enviar email.
+11/05/2022 11:30:26 - Falha ao enviar email.
+18/05/2022 11:16:50 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:17:34 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:17:46 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:17:49 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:22:02 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:22:20 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:24:54 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:25:49 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System
+18/05/2022 11:42:21 - Falha ao enviar email.
+   em System.Net.Mail.SmtpClient.Send(MailMessage message)
+   em Projeto4.FaleConosco.Enviar_Click(Object sender, EventArgs e) na C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\FaleConosco.aspx.cs:linha 57
+System

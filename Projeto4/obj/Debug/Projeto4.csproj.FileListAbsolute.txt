@@ -1,0 +1,414 @@
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+D:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll.config
+D:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.pdb
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.rsp
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.rsp
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+D:\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+D:\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+D:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+D:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+D:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+D:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+E:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll.config
+E:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\Projeto4.pdb
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csc.rsp
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\csi.rsp
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+E:\HTML CSS\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+E:\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\HTML CSS\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
+E:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+E:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+E:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+E:\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\AppDatabase.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\MySql.Data.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\AppDatabase.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4\Projeto4\bin\AppDatabase.xml
+E:\Projeto4\Projeto4\bin\Projeto4.dll.config
+E:\Projeto4\Projeto4\bin\Projeto4.dll
+E:\Projeto4\Projeto4\bin\Projeto4.pdb
+E:\Projeto4\Projeto4\bin\roslyn\csc.exe
+E:\Projeto4\Projeto4\bin\roslyn\csc.exe.config
+E:\Projeto4\Projeto4\bin\roslyn\csc.rsp
+E:\Projeto4\Projeto4\bin\roslyn\csi.exe
+E:\Projeto4\Projeto4\bin\roslyn\csi.exe.config
+E:\Projeto4\Projeto4\bin\roslyn\csi.rsp
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projeto4\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projeto4\Projeto4\bin\roslyn\System.AppContext.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Console.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.IO.Compression.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.IO.Pipes.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Claims.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.ValueTuple.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.dll
+E:\Projeto4\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projeto4\Projeto4\bin\roslyn\vbc.exe
+E:\Projeto4\Projeto4\bin\roslyn\vbc.exe.config
+E:\Projeto4\Projeto4\bin\roslyn\vbc.rsp
+E:\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe
+E:\Projeto4\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+E:\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projeto4\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+E:\Projeto4\Projeto4\bin\MySql.Data.dll
+E:\Projeto4\Projeto4\bin\AppDatabase.pdb
+E:\Projeto4\Projeto4\bin\AppDatabase.xml
+E:\Projeto4\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projeto4\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
+E:\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+E:\Projeto4\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+E:\Projeto4\Projeto4\obj\Debug\Projeto4.dll
+E:\Projeto4\Projeto4\obj\Debug\Projeto4.pdb
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll.config
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\Projeto4.pdb
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe.config
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.rsp
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe.config
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.rsp
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.AppContext.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Console.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Compression.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Claims.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.ValueTuple.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe.config
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.rsp
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\MySql.Data.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\AppDatabase.pdb
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\AppDatabase.xml
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.dll
+D:\FATEC\ADS - 2º Semestre\Linguagem de Programação C#\Projetos\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.pdb
+D:\Fatec\HTML CSS C#\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+D:\Fatec\HTML CSS C#\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+D:\Fatec\HTML CSS C#\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.dll
+D:\Fatec\HTML CSS C#\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll.config
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.pdb
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.rsp
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.rsp
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\marco\OneDrive\Documentos\Fatec\2° semestre fatec\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Projeto4.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csc.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\csi.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.AppContext.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Console.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Compression.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Claims.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.ValueTuple.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\vbc.rsp
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\AppDatabase.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\MySql.Data.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\AppDatabase.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\AppDatabase.xml
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CoreCompileInputs.cache
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csproj.CopyComplete
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.dll
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.pdb
+C:\Users\0040482121037\Documents\HTML CSS\Projeto4-Atualizado\Projeto4\obj\Debug\Projeto4.csprojAssemblyReference.cache
